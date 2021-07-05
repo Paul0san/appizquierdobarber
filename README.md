@@ -2,6 +2,8 @@
 
 Sitio web + aplicación gestora de ventas
 
+https://izquierdobarber.com/
+
 ## Construido con 🛠️
 
 
